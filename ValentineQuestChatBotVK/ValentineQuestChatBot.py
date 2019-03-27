@@ -7,7 +7,7 @@ from vk_api import VkUpload
 
 session = requests.Session()
 
-# Hello world!
+# Hello world! Test!
 
 def write_msg(user_id, message):
     randID = random.randint(0, 100000)
